@@ -7,7 +7,7 @@ class MyClass:
         self.attribute5 = parameter5
         self.attribute6 = parameter6
 
-objek1 = MyClass("Muhamad Agil Nab'han", "B 2021", "Pendidikan Komputer", "Fakultas Keguruan dan Ilmu Pendidikan", "Jalan Kedondong Dalam 5", "Kabupaten Paser")
+objek1 = MyClass("Ningsih Rahmawati", "B 2021", "Pendidikan Komputer", "Fakultas Keguruan dan Ilmu Pendidikan", "JL. Ottoiskandar dinata Gg. Budiman", "Kota samarinda")
 
 print("Biodata Diri:")
 print("Nama:", objek1.attribute1)
